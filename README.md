@@ -37,8 +37,7 @@ todo-app/
 ├── index.html # 主页面结构
 ├── style.css # 样式表
 ├── script.js # 功能逻辑
-├── checkbox.png # 选中状态图标
-└── empty-checkbox.png # 未选中状态图标
+
 
 ## 本地运行
 
